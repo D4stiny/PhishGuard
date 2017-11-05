@@ -16,3 +16,5 @@ Currently, the extension supports both gmail and outlook/hotmail. However, futur
 ![Hotmail Example](https://i.imgur.com/ufNkWlZ.png "Hotmail Example")
 
 Icons made by Smashicons from www.flaticon.com is licensed by CC 3.0 BY
+Gmail logo by cosmcala from www.devianart.com
+Outlook logo by Microsoft
