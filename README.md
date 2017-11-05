@@ -12,8 +12,8 @@ Currently, the extension supports both gmail and outlook/hotmail. However, futur
 ## Screenshots
 ### Gmail
 ![Gmail Example](https://i.imgur.com/7hU1JO8.png "Gmail Example")
-### Hotmail
-![Hotmail Example](https://i.imgur.com/ufNkWlZ.png "Hotmail Example")
+### Outlook
+![Outlook Example](https://i.imgur.com/ufNkWlZ.png "Outlook Example")
 
 Icons made by Smashicons from www.flaticon.com is licensed by CC 3.0 BY  
 Gmail logo by cosmcala from www.devianart.com  
